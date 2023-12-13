@@ -1,0 +1,17 @@
+.termekDiv{
+    border: 1px solid black;
+    margin: 50px;
+    box-shadow: 2px 3px rgb(95, 94, 94);    
+}
+
+.termekDiv:hover{
+    transform: scale(1.01);
+}
+
+.termekDiv h2{
+    margin: 20px;
+}
+img{
+    max-width: 300px;
+    max-height: 300px;
+}
